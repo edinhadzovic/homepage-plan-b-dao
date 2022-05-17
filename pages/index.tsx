@@ -13,8 +13,8 @@ const Home: NextPage = () => {
         <meta name="description" content="Plan B is a open community, developing defi product and services." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main>
-        <div className='flex items-center'>
+      <main className='space-y-4'>
+        <div className='flex  flex-col text-center items-center'>
           <div>
             <Image src="/PlanBLogo.png" width={125} height={125} alt='plan b logo'/>
           </div>
