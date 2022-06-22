@@ -1,4 +1,4 @@
-import { faDiscord, faGit, faGithub, faMedium, faTwitter } from '@fortawesome/free-brands-svg-icons'
+import { faDiscord, faGit, faGithub, faMedium, faTwitter, faReddit } from '@fortawesome/free-brands-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import type { NextPage } from 'next'
 import Head from 'next/head'
