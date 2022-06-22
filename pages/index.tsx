@@ -38,8 +38,8 @@ const Home: NextPage = () => {
               icon={faMedium}
             />
             <Social
-              link="https://twitter.com/PlanBDAO"
-              image={<Image src={"/assets/brands/juice_logo.png"} width={25} height={25} alt="juice box logo dao" />}
+              link="https://www.reddit.com/r/planbdao/"
+              icon={faReddit}
             />
             <Social
               link="https://github.com/plan-b-dao"
